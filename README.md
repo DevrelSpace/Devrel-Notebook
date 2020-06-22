@@ -9,6 +9,7 @@
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Developer-Relations-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Experience-brightgreen"/>
 <img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen"/>
 <img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen"/>
 </p>
