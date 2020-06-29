@@ -9,6 +9,7 @@
 ### Intro
 
 **Developer Evangelism** can be split into:
+
 * Public Speaking
 * Social Media
 * Conferences & Hackathons
@@ -37,7 +38,7 @@ You are the **BRIDGE BUILDER** between **YOUR COMPANY** and **DEVELOPERS USING Y
 
 Being a Developer Evangelist a huge part of your life will be events: conferences, meetups, online meetups, hackathons etc.
 
-#### Hackathons
+**Hackathons**
 
 One can define a few goals that hackathon organisers are aiming for when organising hackathons. Here are some of the goals of external hackathons:
 
@@ -56,6 +57,16 @@ On the other hand your in-house Devrel Evangelists can organise internal hackath
 * Identify weaknesses in your current workflow
 * Build and strengthen relationships among employees
 * Create an opportunity for individuals to test, create and share new ideas
+
+There are also other core things to remember:
+
+* Engagement with hackers after the event is super crucial in terms of your future events, especially when there are not many hackathons on the horizon
+* Great customer service for your partners - acknowledgments and detailed reports about the event. The more detailed the better!
+* Guidelines and booklets for your sponsors and partners before the event, regarding social media, promotion, the event are super useful for both you and your partners to keep consistency of your brand but also avoid fuckups!
+* Team build - marking people with colorful stickers depending on their skills, nice idea, isn't it?
+* Not revealing what prizes are and less or lack of travel reimbursments - competition is not what hackathons are about. Travel reimbursments -are you sure that you will get people who really care?
+* Diversity and inclusion at your hackathons start with organizers!
+* Arranging space - think of various adventures that you want to provide your hacker with (hacker journey during event)
 
 A huge part of the hackathon experience both pre and during the event is marketing and the social media part.
 
