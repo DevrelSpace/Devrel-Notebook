@@ -73,7 +73,7 @@ Here are some core principles of great developer experience:
 
 ### API
 
-![](/Assets/APIPhilosophy.png)
+![](/Developer-Experience/Assets/APIPhilosophy.png)
 
 The core principle here is to design the API so that it allows programmers to use it in the following way:
 

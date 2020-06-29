@@ -14,7 +14,7 @@ In this section, there will be a few concepts, models and smaller thing presente
 
 The first thing is **AAARRRP Model** by [Phil Legetter](https://twitter.com/leggetter)
 
-![](/Assets/AAARRRPModel.jpg)
+![](/Devrel-Management/Assets/AAARRRPModel.jpg)
 
 The other one is **DevRel Pillars 3 C's Model**, which consists of three key elements
 
@@ -24,9 +24,9 @@ The other one is **DevRel Pillars 3 C's Model**, which consists of three key ele
 
 Next one is understanding DevRel and its fields as a whole but also split into smaller fields. Those two assets by [hoopy.io](https://hoopy.io/) should make it all clear.
 
-![](/Assets/DevrelFields.png)
+![](/Devrel-Management/Assets/DevrelFields.png)
 
-![](/Assets/DevrelFieldsTwo.png)
+![](/Devrel-Management/Assets/DevrelFieldsTwo.png)
 
 ### DevrelManager
 

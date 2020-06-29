@@ -72,8 +72,8 @@ A huge part of the hackathon experience both pre and during the event is marketi
 
 **Hackathon Marketing Tasks**
 
-![](/Assets/HackathonMarketingTasks.jpg)
+![](/Developer-Evangelism/Assets/HackathonMarketingTasks.jpg)
 
 **Hackathon Social Media Handling Example**
 
-![](/Assets/HackathonMarketingTasks.jpg)
+![](/Developer-Evangelism/Assets/HackathonMarketingTasks.jpg)
