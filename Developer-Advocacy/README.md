@@ -13,9 +13,9 @@
 
 ## Table of Contents
 
-* [Definitions](#definitions) <br>
+* [Definition](#definition) <br>
 
-### Definitions
+### Definition
 
 Here are a few core things that should be the main responsibilities of Developer Advocates:
 
