@@ -10,7 +10,7 @@
 <a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Developer-Community"><img src="https://img.shields.io/badge/Developer-Community-brightgreen" alt=""/></a>     <a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Developer-Experience"><img src="https://img.shields.io/badge/Developer-Experience-brightgreen" alt=""/></a>   <a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Developer-Evangelism"><img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen" alt=""/></a> <a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Developer-Advocacy"><img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen" alt=""/></a> <a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Devrel-Management"><img src="https://img.shields.io/badge/Devrel-Management-brightgreen" alt=""/></a>
 </p>
 
-One of the chief concerns in software design and development is to create an intuitive user experience. However, developers often forget that they actually have two sets of users to consider: the end-user consuming the product, and the other developers using and working on the code itself. Developers know how stuff works. Developer experience has evolved so much through the years that now it can take up to even half a day to setup dev environment while some time ago you opened notepad and you started working. Before you start diving into this document, I want to leave you with one thought:
+One of the chief concerns in software design and development is to create an intuitive developer experience. However, developers often forget that they actually have two sets of users to consider: the end-user consuming the product, and the other developers using and working on the code itself. Developers know how stuff works. Developer experience has evolved so much through the years that now it can take up to even half a day to setup dev environment while some time ago you opened notepad and you started working. Before you start diving into this document, I want to leave you with one thought:
 
 **You can't assume that developers know what they want to do!**
 
@@ -27,14 +27,6 @@ One of the chief concerns in software design and development is to create an int
 ### Intro
 
 Working as a Developer Experience Designer / Engineers or leading such people, there are a few key elements and concepts worth remembering. The core thing is using software engineering the way that allows you to **onboard and keep developers happy** while they implement something using your stack. When they use your APIs / SDKs / frameworks and tools, they need to see via different methods that you **put effort in developing those tools**. That will show them **engagement, energy and empathy** you put into that tooling. It's always nice to code something that will **bring your developers** some kind of **surprise**! This way you'll be able to both acquire them and also activate their powers by using your tools.
-
-One of the concepts worth understanding and having in mind when designing proper Developer Experience is:
-
-**3:30:3 rule**
-
-* 3 seconds to understand the purpose of the API
-* 30 seconds to identify the entry point
-* 3 minutes to create an account and call the system
 
 ### DeveloperJourney
 
@@ -53,9 +45,9 @@ Another thing worth diving in is developer journey. A developer journey is the r
 
 **Information Architecture**
 
-You should always be thinking as a Developer Experience Engineer about information architecture. Whether it's a design of your API, SDK, repo or API documentation. It should be easy to navigate and intuitive to follow. Always think who you're designing for to make the entry level appropriate. No matter how great your SDK is if you don't have proper information architecture in place, devs won't use it.
+You should always be thinking as a Developer Experience Engineer about information architecture. Whether it's a design of your API, SDK, repo or API documentation. It should be easy to navigate and intuitive to follow. Always think who you're designing for to make the entry level appropriate. No matter how great your SDK is if you don't have proper information architecture in place, developers won't use it.
 
-Another important thing in that field is information sharing. To be more specific when it comes to your efforts - Updates Sharing.
+Another important thing in that field is information sharing. To be more specific - updates sharing.
 
 Types of changes important for notifying developers:
 
@@ -69,7 +61,7 @@ Always ask yourself those questions about changes:
 * Will this require them to do additional work?
 * Will this break anything?
 
-**Principles**
+**Core DX Principles**
 
 Here are some core principles of great developer experience:
 
@@ -90,6 +82,14 @@ The core principle here is to design the API so that it allows programmers to us
 * Use **correctly**
   * Use **efficiently**
     * Use **pleasantly**
+
+One of the concepts worth understanding and having in mind when designing APIs with proper Developer Experience is:
+
+**3:30:3 rule**
+
+* 3 seconds to understand the purpose of the API
+* 30 seconds to identify the entry point
+* 3 minutes to create an account and call the system
 
 APIs are primary interfaces your developers interact with so treat their design as a function. Remember that first impressions stick and your design amplifies your message. On the other hand you should be aware of bad practices too:
 
@@ -136,9 +136,9 @@ This way docs would be both **precursory** and **participatory** and its content
 
 Sooner or later taking care of developer experience at your company you'll either need to check out trends in Open Source or even develop something OSS within your company. Here are some key therms in the field:
 
-* **Author**: The person/s or organization that created the project
-* **Owner**: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+* **Author**: The person/s or organisation that created the project
+* **Owner**: The person/s who has administrative ownership over the organisation or repository (not always the same as the original author)
+* **Maintainers**: Contributors who are responsible for driving the vision and managing the organisational aspects of the project. They may also be authors or owners of the project
 * **Contributors**: Everyone who has contributed something back to the project.
 * **Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
 * **OSPO - Open Source Programs Office**: Establishes policies, process, tools and culture change around open source engagement. Someone or a team who are advocating for open source.
@@ -185,7 +185,7 @@ Having those tips in mind will allow you to get rid of or even prevent some comm
 
 **Open Source Strategy**
 
-Creating and documenting an open source strategy is an essential first step to realizing ROI with open source. Crafting a strategy document will help your team understand the business objectives behind your open-source program.
+Creating and documenting an open source strategy is an essential first step to realising ROI with open source. Crafting a strategy document will help your team understand the business objectives behind your open-source program.
 
 * Start with the end goal first and then explain how to get there
 * Explain your company's approach to open-source and the purpose behind the document.
@@ -206,7 +206,7 @@ Let's assume you have something built and you want to open source it. Here's an 
   * Decide whether there are additional factors to build into your plans for an ecosystem, such as conformance testing
 
 * **Technical Review**
-  * * Remove critical dependencies on non-public components
+  * Remove critical dependencies on non-public components
   * Provide documentation and use case examples
   * Remove internal comments, references to other internal code, etc.
   * Ensure coding style is consistent
@@ -215,14 +215,12 @@ Let's assume you have something built and you want to open source it. Here's an 
   * Add license text as a file in the root directory
 
 * **Governance and Processes**
-
   * Define project governance steps and structure
   * Set up a code repository, bug reporting, and code testing infrastructure
   * Create supporting Slack channels, forums, and Wikis
   * Create open lines of communication with contributors for project success
 
 * **Branding and Marketing**
-
   * Set marketing strategy to promote an active contributor community
   * Design project logo, color scheme, website, collateral, etc.
   * Formalize branding guidelines
@@ -230,7 +228,6 @@ Let's assume you have something built and you want to open source it. Here's an 
   * Register domain names for the project
 
 * **Launch and Maintain**
-
   * Open project and begin development work and contributions process
   * Designate a community manager or community advocate
   * Ensure any changes to direction or governance are clearly communicated
@@ -251,7 +248,6 @@ Let's assume you have something built and you want to open source it. Here's an 
 * Open source is the default when choosing software
 * Many organizations are getting involved in open source with the express purpose of attracting developers
 * No contribution is too big or too small
-
 
 ### Notes
 

@@ -19,7 +19,7 @@
 
 ### General
 
-In this section, there will be a few concepts, models and smaller thing presented that I considered meaningful, from the perspective of DevReal Team manager or even DevRel org head. Others not working on managerial positions should also find it helpful in order to understand over-arching goals of the whole DevRel structure.
+In this section, there will be a few concepts, models and smaller thing presented that we considered meaningful, from the perspective of DevReal Team manager or even DevRel org head. Others not working on managerial positions should also find it helpful in order to understand over-arching goals of the whole DevRel structure in their company.
 
 The first thing is **AAARRRP Model** by [Phil Legetter](https://twitter.com/leggetter)
 
@@ -86,8 +86,6 @@ This applies to pretty much everyone, not only managers. If you don't measure yo
   * Number of members who upgraded to paying accounts
   * Number who joined 6 months ago and are still active
 
-Not everything you can measure, should be measured. Don’t be a data puker, be a data analyst. Be laser focused on the things that matter & provide actionable insights
-
 **Developer Experience Metrics**
   * **Quality**: Net Promoter Score
   * **Quantity**: Program Members
@@ -120,4 +118,4 @@ Not everything you can measure, should be measured. Don’t be a data puker, be 
   * **PRsOverTime**: how many pull requests have been submitted over time
   * **NewContributorsMaintainers**: ratio of new contributors to maintainers
 
-Remember that the number itself isn’t the goal — it’s the process of tracking them over time and finding patterns in the data that can inform project and process improvements
+Remember that the number itself isn’t the goal — it’s the process of tracking them over time and finding patterns in the data that can inform project and process improvements. Not everything you can measure, should be measured. Don’t be a data puker, be a data analyst. Be laser focused on the things that matter & provide actionable insights
