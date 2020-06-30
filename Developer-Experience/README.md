@@ -7,10 +7,7 @@
 </div>
 <br/>
 <p align="center">
-<img src="https://img.shields.io/badge/Developer-Community-brightgreen"/>
-<img src="https://img.shields.io/badge/Developer-Experience-brightgreen"/>
-<img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen"/>
-<img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen"/>
+<a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Developer-Community"><img src="https://img.shields.io/badge/Developer-Community-brightgreen" alt=""/></a>     <a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Developer-Experience"><img src="https://img.shields.io/badge/Developer-Experience-brightgreen" alt=""/></a>   <a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Developer-Evangelism"><img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen" alt=""/></a> <a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Developer-Advocacy"><img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen" alt=""/></a> <a href="https://github.com/DevrelSpace/Devrel-Notebook/tree/master/Devrel-Management"><img src="https://img.shields.io/badge/Devrel-Management-brightgreen" alt=""/></a>
 </p>
 
 One of the chief concerns in software design and development is to create an intuitive user experience. However, developers often forget that they actually have two sets of users to consider: the end-user consuming the product, and the other developers using and working on the code itself. Developers know how stuff works. Developer experience has evolved so much through the years that now it can take up to even half a day to setup dev environment while some time ago you opened notepad and you started working. Before you start diving into this document, I want to leave you with one thought:
