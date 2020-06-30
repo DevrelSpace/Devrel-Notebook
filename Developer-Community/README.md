@@ -1,8 +1,18 @@
-# Developer Community
-
-Developer Community - another hugely important part of the Developer Relations umbrella.
-
-![](/Assets/DeveloperRelations.png)
+<div align="center">
+<br>
+<img src="DeveloperCommunityLogo.png"
+/>
+<br/>
+<h1>Developer Community</h1>
+<strong>Developer Community - another hugely important part of the Developer Relations umbrella!</strong>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Developer-Community-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Experience-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen"/>
+</p>
 
 ## Table of Contents
 

@@ -8,7 +8,7 @@
 </div>
 <br/>
 <p align="center">
-<img src="https://img.shields.io/badge/Developer-Relations-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Community-brightgreen"/>
 <img src="https://img.shields.io/badge/Developer-Experience-brightgreen"/>
 <img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen"/>
 <img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen"/>
@@ -25,6 +25,8 @@ In short what Developer Relations is about:
   * Community
   * Product
   * Education and support
+
+![](/Assets/DeveloperRelations.png)
 
 **Its core elements:**
 * **Awareness** - awareness of the platform and what it does

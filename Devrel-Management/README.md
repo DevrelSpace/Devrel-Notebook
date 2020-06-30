@@ -1,6 +1,18 @@
-# Devrel Product Management
-
-Two core things to remember before we start diving into the content. Here's what matters: **turning concepts into actions** and **sharing knowledge note features**.
+<div align="center">
+<br>
+<img src="DevrelManagementLogo.png"
+/>
+<br/>
+<h1>Devrel Product Management</h1>
+<strong>Turning concepts into actions and sharing knowledge note features!</strong>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Developer-Community-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Experience-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen"/>
+</p>
 
 ## Table of Content
 

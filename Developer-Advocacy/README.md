@@ -1,6 +1,18 @@
-# Developer Advocacy
-
-To say in a few words what this notes will be about. If they like your product they'll do the advocacy!
+<div align="center">
+<br>
+<img src="DeveloperAdvocacyLogo.png"
+/>
+<br/>
+<h1>Developer Advocacy</h1>
+<strong>If they like your product they'll do the advocacy!</strong>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Developer-Community-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Experience-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen"/>
+</p>
 
 ## Table of Contents
 

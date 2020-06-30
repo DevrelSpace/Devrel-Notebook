@@ -1,4 +1,17 @@
-# Developer Experience
+<div align="center">
+<br>
+<img src="DeveloperExperienceLogo.png"
+/>
+<br/>
+<h1>Developer Experience</h1>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Developer-Community-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Experience-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen"/>
+</p>
 
 One of the chief concerns in software design and development is to create an intuitive user experience. However, developers often forget that they actually have two sets of users to consider: the end-user consuming the product, and the other developers using and working on the code itself. Developers know how stuff works. Developer experience has evolved so much through the years that now it can take up to even half a day to setup dev environment while some time ago you opened notepad and you started working. Before you start diving into this document, I want to leave you with one thought:
 

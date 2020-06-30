@@ -1,8 +1,21 @@
-# Loose DevRel Notes
-
-You can find here all the loose notes that we've written down during DevRel field research, making notes and pretty much creating this repo. Hope they'll be somewhat useful in your present and future DevRel endeavours! 🖖
+<div align="center">
+<br>
+<img src="LooseNotesLogo.png"
+/>
+<br/>
+<h1>Loose DevRel Notes</h1>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Developer-Community-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Experience-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer-Evangelism-brightgreen"/>
+<img src="https://img.shields.io/badge/Developer%20-Advocacy-brightgreen"/>
+</p>
 
 ## Notes
+
+You can find here all the loose notes that we've written down during DevRel field research, making notes and pretty much creating this repo. Hope they'll be somewhat useful in your present and future DevRel endeavours! 🖖
 
 * When you're asked about ROI and you think it's shit just don't come up with some number (**it's about trust**)
 * Not everything of value can be measured
